@@ -49,15 +49,6 @@ MLProjectPipeline/
 - 🧪 Notebook integration: for experimentation and reproducibility
 - 🛠️ CLI support: script-based execution for Colab or cluster use
 - 📋 Configuration-driven: change models and parameters easily via config
-
----
-
-## 🔧 Setup
-# Clone the repo
-# Install dependencies
-$ pip install -r requirements.txt
-```
-
 ---
 
 
